@@ -23,3 +23,16 @@ This project analyzes coffee order data to identify popular drink types, order f
 ### Total Revenue (if available)
 - Based on price per drink (if data included)
 - Dashboard Interaction <a href="https://github.com/Pushkar2520/Coffee-Sales-Analysis/blob/main/Coffee_sales%20Dashboard.png">View Dashboard<a/>
+
+## Project Process
+- Imported raw coffee order data into Excel
+- Cleaned the dataset: removed duplicates, fixed date/time formats, and standardized drink names
+- Used LOOKUP and MATCH functions to extract specific values and align data across columns
+- Created pivot tables to analyze order volume by drink type, day, and time
+- Identified top-selling drinks, peak hours, and customer behavior trends
+- Built visualizations to showcase KPIs and insights in an easy-to-read format
+
+  # Dashboard
+![Coffee_sales Dashboard](https://github.com/user-attachments/assets/3114587a-25f6-4f5d-a3ca-ea733d37acb5)
+
+
