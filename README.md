@@ -35,4 +35,15 @@ This project analyzes coffee order data to identify popular drink types, order f
   # Dashboard
 ![Coffee_sales Dashboard](https://github.com/user-attachments/assets/3114587a-25f6-4f5d-a3ca-ea733d37acb5)
 
+# Project Insights
+- Lattes were the most frequently ordered drink, indicating high customer preference
+- Morning hours (especially 8–10 AM) had the highest order volume, suggesting peak business hours
+- Fridays saw the most orders, making them ideal for promotions or staffing adjustments
+- Certain customers placed repeat orders, showing potential for loyalty programs
+- Cold drinks had lower order counts, which may vary seasonally and could inform inventory planning
+- The use of LOOKUP and MATCH functions helped streamline order categorization and trend analysis
+- 
+# Final Conclusion
+The Coffee Orders Analysis revealed key trends in customer preferences and peak ordering behavior. Popular drinks like lattes and high demand during morning hours and Fridays highlight opportunities for targeted promotions and optimized staffing. Leveraging Excel functions like LOOKUP and MATCH enabled efficient data handling and deeper insight extraction to support smarter business decisions.
+
 
