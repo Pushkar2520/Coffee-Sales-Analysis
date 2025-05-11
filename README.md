@@ -1,2 +1,2 @@
-# Coffee-Sales-Analysis
-Analyzed coffee order data to uncover trends in drink preferences, peak order times, and customer behavior. Demonstrated skills in Excel data cleaning, pivot analysis, and retail insights.
+# Coffee-Sales-Analysis(Interactive Dashboard using MS Excel)
+This project analyzes coffee order data to identify popular drink types, order frequency by time and day, and customer behavior patterns. The goal is to generate insights that help optimize menu offerings, staffing schedules, and sales strategies.
