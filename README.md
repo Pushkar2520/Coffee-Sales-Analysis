@@ -7,18 +7,19 @@ This project analyzes coffee order data to identify popular drink types, order f
 
 # Key KPIs
 ### Total Orders
-– Total number of coffee orders placed
+- Total number of coffee orders placed
 ### Most Popular Drink
-– Highest ordered coffee type (e.g., Latte, Cappuccino)
+- Highest ordered coffee type (e.g., Latte, Cappuccino)
 ### Top Drink Category 
-– Category with the most orders (e.g., Espresso-based, Cold drinks)
+- Category with the most orders (e.g., Espresso-based, Cold drinks)
 ### Peak Order Time
-– Time of day with the highest order volume
+- Time of day with the highest order volume
 ### Top Ordering Day
-– Day of the week with the most sales
+- Day of the week with the most sales
 ### Average Orders per Day
-– Mean daily volume
+-  Mean daily volume
 ### Customer Frequency
-– Top customers by number of repeat orders
+- Top customers by number of repeat orders
 ### Total Revenue (if available)
-– Based on price per drink (if data included)
+- Based on price per drink (if data included)
+- Dashboard Interaction <a href="https://github.com/Pushkar2520/Coffee-Sales-Analysis/blob/main/Coffee_sales%20Dashboard.png">View Dashboard<a/>
