@@ -9,9 +9,9 @@ This project analyzes coffee order data to identify popular drink types, order f
 ### Total Orders
 - Total number of coffee orders placed
 ### Most Popular Drink
-- Highest ordered coffee type (e.g., Latte, Cappuccino)
+- Highest ordered coffee type 
 ### Top Drink Category 
-- Category with the most orders (e.g., Espresso-based, Cold drinks)
+- Category with the most orders 
 ### Peak Order Time
 - Time of day with the highest order volume
 ### Top Ordering Day
