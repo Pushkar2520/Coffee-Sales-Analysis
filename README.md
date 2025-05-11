@@ -20,7 +20,7 @@ This project analyzes coffee order data to identify popular drink types, order f
 -  Mean daily volume
 ### Customer Frequency
 - Top customers by number of repeat orders
-### Total Revenue (if available)
+### Total Revenue 
 - Based on price per drink (if data included)
 - Dashboard Interaction <a href="https://github.com/Pushkar2520/Coffee-Sales-Analysis/blob/main/Coffee_sales%20Dashboard.png">View Dashboard<a/>
 
