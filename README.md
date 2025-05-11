@@ -42,7 +42,7 @@ This project analyzes coffee order data to identify popular drink types, order f
 - Certain customers placed repeat orders, showing potential for loyalty programs
 - Cold drinks had lower order counts, which may vary seasonally and could inform inventory planning
 - The use of LOOKUP and MATCH functions helped streamline order categorization and trend analysis
-- 
+  
 # Final Conclusion
 The Coffee Orders Analysis revealed key trends in customer preferences and peak ordering behavior. Popular drinks like lattes and high demand during morning hours and Fridays highlight opportunities for targeted promotions and optimized staffing. Leveraging Excel functions like LOOKUP and MATCH enabled efficient data handling and deeper insight extraction to support smarter business decisions.
 
